@@ -1,9 +1,8 @@
 # Practice
 
-## Kelsie's Section
-This is me messing around. I hope it breaks! If not, that's okay. It will just take the fun out of it, though.
-
-I am going to continue typing to make a really long readme file. Adding new lines are super fun and easy! 
+## Brian's Stuff
+This is stuff I added.
+Now I added more
 
 ## Poems
 Violets, I hold you
