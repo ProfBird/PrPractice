@@ -2,7 +2,8 @@
 
 ## Brian's Stuff
 This is stuff I added.
-Now I added more
+Now I added more  
+This is for feature 7.
 
 ## Poems
 Violets, I hold you
