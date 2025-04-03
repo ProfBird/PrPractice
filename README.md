@@ -18,3 +18,7 @@ New line from Brian
 
 ## More stuff
 This is more stuff
+
+## Alaina's section
+This is a short section I'm adding to the repository!
+I'm excited to learn how to use git with multiple people editing different branches.
