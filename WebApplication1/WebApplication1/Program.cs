@@ -23,3 +23,5 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
+// This is a stupid comment just for testing git.
