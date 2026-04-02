@@ -24,4 +24,9 @@ app.MapRazorPages();
 
 app.Run();
 
+<<<<<<< HEAD
+
+//Uh oh
+=======
 // This is a stupid comment just for testing git.
+>>>>>>> main
